@@ -3,12 +3,6 @@
 
 A Cyclical Time-Based Intelligence Platform for Long-Term Thinking
 
-https://img.shields.io/badge/License-Apache%202.0-blue.svg
-https://img.shields.io/badge/Built%20with-Rust-orange.svg
-https://img.shields.io/badge/Temporal--AI-Enabled-green.svg
-https://img.shields.io/badge/Cyclical--Thinking-Certified-blue.svg
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-
 <div align="center">🔒 SAFEWAY GUARDIAN • Nicolas E. Santiago, Tokyo, Japan, Nov. 20, 2025
 Powered by DEEPSEEK AI RESEARCH TECHNOLOGY • Validated by Chat GPT
 
